@@ -56,10 +56,33 @@ Let us generate an assignment schedule for tomorrow by showing "who delivers whi
 I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming) in a Python Jupyter notebook with [Gurobi](https://www.gurobi.com/) as the solver. Adding the following routine is necessary. 
 
 ```javascript
-import gurobipy as gp
-from gurobipy import GRB  
+import numpy as np
+import pandas as pd
+from ortools.linear_solver import pywraplp
 ```
- 
+```javascript
+A = pd.read_csv('input/combos.csv')
+C = pd.read_csv('input/menu_byob.csv')
+P = pd.read_csv('input/menu_combo.csv')
+order = pd.read_csv('input/cust_order.csv')
+D = order
+```
+
+```javascript
+
+```
+
+```javascript
+
+```
+
+```javascript
+
+```
+
+```javascript
+
+```
 ## Result
 
 
