@@ -4,7 +4,9 @@
 <img src="images/kcs.png" width="1000" >
 
 ## Story
-Furniture Co’s logistic department of is responsible for the last mile delivery (for more general information, see also [here](https://onfleet.com/blog/what-is-last-mile-delivery/)) from store to customers’ homes. 
+As a foodie, I have soft spot for seafood and Vietnamese food. My favorite restuarnt to get both in Milwaukee is this place called King Crab Shack. They serve not only authentic Vietnamese dishes, but also cajun style seafood boil with a twist of Vietnamese. 
+
+Their menu can be found [here](https://thekingcrabshack27th.com/menu).  
 
 ## The Menu
 
