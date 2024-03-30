@@ -1,5 +1,5 @@
 # The King Crab Hack
-## An analytical guide to the best bang for tge at the King Crab Shack using Mixed Integer Optimization and Google OrTools
+## An analytical guide to the best bang for buck at the King Crab Shack using Mixed Integer Optimization and Google OrTools
 
 <img src="images/kcs.png" width="1000" >
 
