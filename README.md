@@ -29,7 +29,7 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 | sausage (x1)	 |1.99|
 
 
-|combo	|	included	|	price $/each	|
+|Combos	|	Included	|	Price $/each	|
 | :------  | ---: | ---: | 
 |combo 1	|shrimp, mussels, crawfish/clams	|	41.99 |
 |combo 2	|snow crab, mussels/crawfish	|	45.99 |
