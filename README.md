@@ -1,7 +1,7 @@
 # The King Crab Hack
 ## An analytical guide to the best bang for tge at the King Crab Shack using Mixed Integer Optimization and Google OrTools
 
-<img src="images/LMD_Designer_1.png" width="1000" >
+<img src="images/kcs.png" width="1000" >
 
 ## Story
 Furniture Co’s logistic department of is responsible for the last mile delivery (for more general information, see also [here](https://onfleet.com/blog/what-is-last-mile-delivery/)) from store to customers’ homes. 
@@ -23,6 +23,28 @@ Furniture Co’s logistic department of is responsible for the last mile deliver
 | corn     |	0.75|
 | potato	  |0.55|
 | sausage	 |1.99|
+
+
+combo	price
+combo_1	41.99
+combo_1_hs	43.99
+combo_2	45.99
+combo_3	82.99
+combo_4	59.99
+combo_4_hs	61.99
+combo_5	58.99
+combo_6	73.99
+combo_6_hs	75.99
+combo_dun	54.99
+combo_dun_hs	56.99
+combo_king	72.99
+combo_king_hs	74.99
+combo_livlob	62.99
+combo_sp1	49.99
+combo_sp1_hs	50.99
+combo_sp2	39.99
+combo_sp2_hs	40.99
+
 
 ## "Build Your Own Bag" or Combos? 
 
