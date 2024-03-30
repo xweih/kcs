@@ -10,7 +10,23 @@ Furniture Co’s logistic department of is responsible for the last mile deliver
 
 | Seafood | Price/lb | 
 | :------ | ---: | 
-| India   | 2011 |   492 |
+| India   | 2011 |   
+| ccm	    |12.99|
+| king	    |	54.99|
+| tail_1	    |	26.99|
+| tail_2	    |	49.99|
+| lob_live	    |	49.99|
+| scallops	    |	32.99|
+| shrimp_wh	|16.99|
+| shrimp_hs	|18.99|
+| snow|	35.99|
+| dungeness	|35.99|
+| corn|	0.75|
+| potato	|0.55|
+| sausage	|1.99|
+
+![image](https://github.com/xweih/kcs/assets/67345731/fe859d2e-e3fd-4132-87e8-854944e5df05)
+
 
 ## "Build Your Own Bag" or Combos? 
 
