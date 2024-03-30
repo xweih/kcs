@@ -29,9 +29,19 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 | sausage (x1)	 |1.99|
 
 
-|combo	|	included (1 lb of each seafood, 1 corn, 1 potato, and 1 sausage)	|	price $/each	|
+|combo	|	included	|	price $/each	|
 | :------  | ---: | ---: | 
-|combo 1	|shrimp, mussels, crawfish/clams  |  41.99 |
+|combo 1	|shrimp, mussels, crawfish/clams	|	41.99 |
+|combo 2	|snow crab, mussels/crawfish	|	45.99 |
+|combo 3	|snow crab, 2x lobster tails	|	82.99 |
+|combo 4	|snow crab, shrimp, mussels	|	59.99 |
+|combo 5	|snow crab, crawfish, clams	|	58.99 |
+|combo 6	|2x lobster tails, shrimp, mussels	|	73.99 |
+|Dungenese combo 	|Dungenese crab, shrimp	|	54.99 |
+|King crab combo	|King crab, shrimp	|	72.99 |
+|Live lobster combo	|1 x live lobster, mussels	|	62.99 |
+|combo special 1	|snow crab (1/2), 1x lobster tail, shrimp (1/2) 	|	49.99 |
+|combo special 2	|King crab (1/2), shrimp (1/2), crawfish/mussels (1/2)	|	39.99 |
 
 
 ## "Build Your Own Bag" or Combos? 
