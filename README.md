@@ -1,6 +1,5 @@
 # The King Crab Hack
-## An analytical guide to getting the best deal of seafood order at the King Crab Shack 
-## using Mixed Integer Optimization and Google OrTools
+## An analytical guide to the best bang for tge at the King Crab Shack using Mixed Integer Optimization and Google OrTools
 
 <img src="images/LMD_Designer_1.png" width="1000" >
 
