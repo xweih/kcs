@@ -27,9 +27,9 @@ Furniture Co’s logistic department of is responsible for the last mile deliver
 | sausage (x1)	 |1.99|
 
 
-|combo	|	included	|	price $/each	|
+|combo	|	included (1 lb of each seafood, 1 corn, 1 potato, and 1 sausage)	|	price $/each	|
 | :------  | ---: | ---: | 
-|combo 1	|shrimp, mussels, crawfish/clams, corn, potato, sausage||41.99 |
+|combo 1	|shrimp, mussels, crawfish/clams  |  41.99 |
 
 
 ## "Build Your Own Bag" or Combos? 
