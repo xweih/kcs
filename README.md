@@ -10,40 +10,26 @@ Furniture Co’s logistic department of is responsible for the last mile deliver
 
 | Seafood  | Price $/lb | 
 | :------  | ---: | 
-| ccm	     |12.99 |
-| king	    |	54.99|
-| tail_1	  |	26.99|
-| tail_2	  |	49.99|
-| lob_live |	49.99|
+| crawfish	     |12.99 |
+| mussels	     |12.99 |
+| clams	     |12.99 |
+| king crab    |	54.99|
+| lobster tail (x1)	  |	26.99|
+| lobster tail (x2)	  |	49.99|
+| live lobster (x1)|	49.99|
 | scallops	|	32.99|
-| shrimp_wh|16.99|
-| shrimp_hs|18.99|
-| snow     |	35.99|
-| dungeness|35.99|
-| corn     |	0.75|
-| potato	  |0.55|
-| sausage	 |1.99|
+| shrimp (whole)|16.99|
+| shrimp (cleaned) |18.99|
+| snow crab     |	35.99|
+| dungeness crab|35.99|
+| corn (x1)    |	0.75|
+| potato (x1)	  |0.55|
+| sausage (x1)	 |1.99|
 
 
-combo	price
-combo_1	41.99
-combo_1_hs	43.99
-combo_2	45.99
-combo_3	82.99
-combo_4	59.99
-combo_4_hs	61.99
-combo_5	58.99
-combo_6	73.99
-combo_6_hs	75.99
-combo_dun	54.99
-combo_dun_hs	56.99
-combo_king	72.99
-combo_king_hs	74.99
-combo_livlob	62.99
-combo_sp1	49.99
-combo_sp1_hs	50.99
-combo_sp2	39.99
-combo_sp2_hs	40.99
+|combo	|	included	|	price $/each	|
+| :------  | ---: | ---: | 
+|combo 1	|shrimp, mussels, crawfish/clams, corn, potato, sausage||41.99 |
 
 
 ## "Build Your Own Bag" or Combos? 
