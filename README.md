@@ -1,6 +1,5 @@
 # The King Crab Hack 
-## An analytical guide to the best bang for buck at the King Crab Shack Restaurant 
-## using Mixed Integer Optimization and CVXPY
+## An analytical guide to the best bang for buck at the King Crab Shack Restaurant using Mixed Integer Optimization and CVXPY
 
 <img src="images/kcs.png" width="1000" >
 
