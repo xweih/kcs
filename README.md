@@ -1,5 +1,4 @@
-# The King Crab Hack
-## An analytical guide to the best bang for buck at the King Crab Shack using Mixed Integer Optimization and Google OrTools
+# The King Crab Hack An analytical guide to the best bang for buck at the King Crab Shack using Mixed Integer Optimization and Google OrTools
 
 <img src="images/kcs.png" width="1000" >
 
@@ -198,46 +197,12 @@ print( )
 print("!! Now, your total (objective value) is: $", round(prob.value,2))
 print("!! YOU SAVED: $", round(totalByob - prob.value, 2), "(%s)" % format((totalByob - prob.value) / totalByob, ".0%") )
 ```
+
+
+## Result
+
 After running the script, we are able to find at least one optimal solution, as follows. 
 
-Status:  optimal
-The optimal value is: 372.92
-A solution x is
-[ 0.  0. -0.  1. -0.  0.  0. -0.  0. -0.  0. -0. -0.]
-A solution y is
-[ 0.  0.  2. -0. -0.  1.  0. -0. -0.  0. -0.  0.  0. -0. -0.  0.  0.  4.]
-
-=============== THE KING CRAB HACK ===============
-
-Here's everything you ordered: 
-
-      seafood  pound
-0    crawfish      3
-1     mussels      1
-2       clams      1
-3        king      3
-4        tail      0
-5    lob_live      0
-6    scallops      0
-7   shrimp_wh      0
-8   shrimp_hs      3
-9        snow      3
-10  dungeness      0
-11       corn      5
-12     potato      5
-13    sausage      5
-
-'Build Your Own Bag' would have cost: $ 411.31
-
-Here's what you should order to get a bang for the buck:
-
-combo_2  =  2
-combo_4_hs  =  1
-combo_sp2_hs  =  4
-king  =  1
-
-!! Now, your total (objective value) is: $ 372.92
-!! YOU SAVED: $ 38.39 (9%)
 ```javascript
 Status:  optimal
 The optimal value is: 372.92
@@ -278,8 +243,6 @@ king  =  1
 !! Now, your total (objective value) is: $ 372.92
 !! YOU SAVED: $ 38.39 (9%)
 ```
-## Result
-
 
 ## Reference
 
