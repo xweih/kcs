@@ -28,7 +28,6 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 | potato (x1)	  |0.55|
 | sausage (x1)	 |1.99|
 
-
 |Combos	|	Included	|	Price $/each	|
 | :------  | ---: | ---: | 
 |combo 1	|shrimp, mussels, crawfish/clams	|	41.99 |
@@ -43,9 +42,7 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 |combo special 1	|snow crab (1/2), 1x lobster tail, shrimp (1/2) 	|	49.99 |
 |combo special 2	|King crab (1/2), shrimp (1/2), crawfish/mussels (1/2)	|	39.99 |
 
-
 ## "Build Your Own Bag" or Combos? 
-
 
 ## Mission
 Let us generate an assignment schedule for tomorrow by showing "who delivers which furniture". 
