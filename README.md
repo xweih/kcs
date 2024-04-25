@@ -59,7 +59,7 @@ Import CVXPY library, assuming CVXPY has been installed properly.
 ```javascript
 import cvxpy as cp
 ```
-
+ 
 First, I preprocess the data, i.e., the KCS's menu pricing information and my required order that are contained in a few csv files. 
 
 ```javascript
