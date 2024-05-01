@@ -49,7 +49,12 @@ The resturant offers two ways of ordering your preferred seafood: you can either
 
 
 ## Mission
-Let us generate an assignment schedule for tomorrow by showing "who delivers which furniture". 
+
+I need to place a large order for a big party I'm hosting. To feed enough people, I plan to order the following: 
+
+With this big order in mind, I certainly can forego "Build Your Own Bag" option. But I was also hoping to save a few bucks without changing my order - if I can combine their existing combos and individual seafood by the pound, I believe this goal is achievable. 
+
+So let us generate an assignment schedule for tomorrow by showing "who delivers which furniture". 
 
 ## Method
 I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming) in a Python Jupyter notebook with [CVXPY](https://www.cvxpy.org/) as the solver. Adding the following routine is necessary. 
