@@ -10,6 +10,8 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 
 ## The Menu
 
+"Build your own bag"
+
 | Seafood  | Price $/lb | 
 | :------  | ---: | 
 | crawfish	     |12.99 |
@@ -43,6 +45,9 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 |combo special 2	|King crab (1/2), shrimp (1/2), crawfish/mussels (1/2)	|	39.99 |
 
 ## "Build Your Own Bag" or Combos? 
+
+The resturant offers two ways of ordering your preferred seafood: you can either go by "build your own bag" style, with which you simply select whatever you like, or go by their "combos", which come with 2 to 3 types of seafood with some sides. Naturally, with each combo, the price comes with a certain amount of quantity discount. 
+
 
 ## Mission
 Let us generate an assignment schedule for tomorrow by showing "who delivers which furniture". 
