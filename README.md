@@ -29,7 +29,7 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 | potato (x1)	  |0.55|
 | sausage (x1)	 |1.99|
 
-|Combos	|	Included	|	Price $/each	|
+|Combos	|	Included*	|	Price $/each	|
 | :------  | ---: | ---: | 
 |combo 1	|shrimp, mussels, crawfish/clams	|	41.99 |
 |combo 2	|snow crab, mussels/crawfish	|	45.99 |
@@ -42,11 +42,13 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 |Live lobster combo	|1 x live lobster, mussels	|	62.99 |
 |combo special 1	|snow crab (1/2), 1x lobster tail, shrimp (1/2) 	|	49.99 |
 |combo special 2	|King crab (1/2), shrimp (1/2), crawfish/mussels (1/2)	|	39.99 |
-
+* Each Combo also includes 1 corn, 1 potato, and 1 sausage.
+* 
 ## "Build Your Own Bag" or Combos? 
 
-The resturant offers two ways of ordering your preferred seafood: you can either go by "build your own bag" style, with which you simply select whatever you like, or go by their "combos", which come with 2 to 3 types of seafood with some sides. Naturally, with each combo, the price comes with a certain amount of quantity discount. 
+The resturant offers two ways of ordering your preferred seafood: you can either go by "Build Your Own Bag" style, with which you simply select whatever you like, or go by their "combos", which come with 2 to 3 types of seafood with some sides. Naturally, with each combo, the price comes with a certain amount of quantity discount. 
  
+For instance, let us look at Combo 2. Based on "Build Your Own Bag" price, the total order of "1 lb of snow crab + 1 lb of crawfish + 1 corn + 1 potato + 1 sausage" would have cost $52.27. But Combo 2 is offered as a package at $45.99. 
 
 ## Mission
 
@@ -250,6 +252,8 @@ king  =  1
 !! Now, your total (objective value) is: $ 372.92
 !! YOU SAVED: $ 38.39 (9%)
 ```
+## Discussion
+
 
 ## Reference
 
