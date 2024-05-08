@@ -46,7 +46,7 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 ## "Build Your Own Bag" or Combos? 
 
 The resturant offers two ways of ordering your preferred seafood: you can either go by "build your own bag" style, with which you simply select whatever you like, or go by their "combos", which come with 2 to 3 types of seafood with some sides. Naturally, with each combo, the price comes with a certain amount of quantity discount. 
-
+ 
 
 ## Mission
 
