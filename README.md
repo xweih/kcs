@@ -97,11 +97,10 @@ $D_i$: demand of seafood
 $A_{ij}$: the quantity of seafood $i$ in combo $j$.  
 
 
-```math
-min: \quad \sum_j P_j Y_j + \sum_i C_i X_i  \newline
+$$ min: \quad \sum_j P_j Y_j + \sum_i C_i X_i  $$
 
-st:  \quad \sum_j A_{ij} Y_j + X_i \geq D_i, \quad \forall i
-```
+$$ st:  \quad \sum_j A_{ij} Y_j + X_i \geq D_i, \quad \forall i $$
+
 
 ## The Code
 
