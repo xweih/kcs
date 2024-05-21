@@ -78,13 +78,13 @@ Indices:
 
 $i \in$ {crawfish, mussels, shrimp, snow crab, ..., sausage}: seafood by the pound 
 
-$j \in$ { 'combo 1', 'combo 2', ... , 'combo special 2' \}: combo
+$j \in$ {combo 1, combo 2, ... , combo special 2}: combo
 
 Decision Variables:
 
-$X_i \in$ { 0,1 }: selection of a seafood by the pound, taking the value 1, if seafood $i$ is selected, and 0, if not.  
+$X_i \in$ {0,1}: selection of a seafood by the pound, taking the value 1, if seafood $i$ is selected, and 0, if not.  
 
-$Y_j \in$ { 0,1 }: selection of a combo, taking the value of 1, if combo $j$ is selected, and 0, if not.  
+$Y_j \in$ {0,1}: selection of a combo, taking the value of 1, if combo $j$ is selected, and 0, if not.  
 
 Parameters: 
 
