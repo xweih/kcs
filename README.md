@@ -57,12 +57,12 @@ For instance, let us look at Combo 2. Based on "Build Your Own Bag" price, the t
 
 I need to place a large order for a big party I'm hosting. To feed enough people, I plan to order the following: 
 
-Crawfish:	3 lbs
+crawfish:	3 lbs
 mussels:	1 lbs
 clams:	1 lbs
-King crab:	3 lbs
-Headless shrimp:	3 lbs
-Snow	crab: 3 lbs
+king crab:	3 lbs
+headless shrimp:	3 lbs
+snow	crab: 3 lbs
 corn:	5 ea.
 potato:	5 ea.
 sausage:	5 ea.
@@ -76,13 +76,13 @@ I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_
 
 Indices
 
-$i$: seafood 
+$i \in \{'crawfish', 'mussels', 'shrimp', 'snow crab', ..., 'sausage' \}$: seafood by the pound 
 
-$j$: combo
+$j \in \{'combo 1', 'combo 2', ... , 'combo special 2'\}$: combo
 
 Decision Variables
 
-$X_i \in {0,1} $
+$X_i \in \{0,1\} $
 
 
 ## The Code
