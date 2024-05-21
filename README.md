@@ -76,7 +76,7 @@ I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_
 
 Indices
 
-$i \in$ { 'crawfish', 'mussels', 'shrimp', 'snow crab', ..., 'sausage' \}: seafood by the pound 
+$i \in$ { crawfish, mussels, shrimp, snow crab, ..., sausage \}: seafood by the pound 
 
 $j \in$ { 'combo 1', 'combo 2', ... , 'combo special 2' \}: combo
 
