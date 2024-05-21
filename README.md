@@ -94,7 +94,12 @@ $C_i$: build your own bag price of seafood $i$,  (per pound)
 
 $D_i$: demand of seafood 
 
-$A_{ij}$: the availability of seafood $i$ in combo $j$, taking value 1, if combo $j$ includes seafood item $i$, and 0, if not. 
+$A_{ij}$: the quantity of seafood $i$ in combo $j$.  
+
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
 
 ## The Code
 
