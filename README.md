@@ -74,24 +74,27 @@ So let us do some math to plan my order, so that I can make the most out of the 
 ## The Math
 I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming). Below is the mathematical model. 
 
-Indices
+Indices:
 
-$i \in$ \italic{{ crawfish, mussels, shrimp, snow crab, ..., sausage \}:} seafood by the pound 
+$i \in$ {crawfish, mussels, shrimp, snow crab, ..., sausage}: seafood by the pound 
 
 $j \in$ { 'combo 1', 'combo 2', ... , 'combo special 2' \}: combo
 
-Decision Variables
+Decision Variables:
 
-$X_i \in$ { 0,1 } 
+$X_i \in$ { 0,1 }: selection of a seafood by the pound, taking the value 1, if seafood $i$ is selected, and 0, if not.  
 
-$$
-z_{ijk} = \left\{
-    \begin{array}\\
-        1 & \text{ job } j \text{ starts before job } k,\text{ done by employee }i \\
-        0 & \text{ job } j \text{ starts after job } k,\text{ done by employee }i \\
-    \end{array}
-\right.
-$$
+$Y_j \in$ { 0,1 }: selection of a combo, taking the value of 1, if combo $j$ is selected, and 0, if not.  
+
+Parameters: 
+
+$P_j$: price of combo $j$
+
+$C_i$: build your own bag price of seafood $i$,  (per pound)
+
+$D_i$: demand of seafood 
+
+$A_{ij}$: the availability of seafood $i$ in combo $j$, taking value 1, if combo $j$ includes seafood item $i$, and 0, if not. 
 
 ## The Code
 
