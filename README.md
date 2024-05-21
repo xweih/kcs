@@ -68,8 +68,17 @@ With this big order in mind, I certainly can forego "Build Your Own Bag" option.
 
 So let us do some math to plan my order, so that I can make the most out of the money I'm about to spend. 
 
-## Method
+## The Math
 I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming) in a Python Jupyter notebook with [CVXPY](https://www.cvxpy.org/) as the solver. Adding the following routine is necessary. 
+
+Indices
+$i$: seafood 
+$j$: combo
+
+Decision Variables
+$X_i$
+
+## The Code
 
 ```javascript
 import numpy as np
