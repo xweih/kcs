@@ -88,13 +88,13 @@ $Y_j \in$ {0,1}: selection of a combo, taking the value of 1, if combo $j$ is se
 
 Parameters: 
 
-$P_j$: price of combo $j$
+$C_i$: build-your-own-bag menu price of seafood $i$,  (per pound)
 
-$C_i$: build your own bag price of seafood $i$,  (per pound)
+$P_j$: menu price of combo $j$, (per each)
 
-$D_i$: demand of seafood 
+$D_i$: demand quantity (lb) of seafood $i$ as a customer order
 
-$A_{ij}$: the quantity of seafood $i$ in combo $j$.  
+$A_{ij}$: the quantity (lb) of seafood $i$ in combo $j$, according to the menu.  
 
 Thus, our mission can be formulated as a cost-minimization problem as follows: 
 
