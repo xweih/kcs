@@ -75,11 +75,15 @@ So let us do some math to plan my order, so that I can make the most out of the 
 I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming). Below is the mathematical model. 
 
 Indices
+
 $i$: seafood 
+
 $j$: combo
 
 Decision Variables
-$X_i$
+
+$X_i \in {0,1} $
+
 
 ## The Code
 
