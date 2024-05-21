@@ -43,8 +43,8 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 |combo special 1	|snow crab (1/2), 1x lobster tail, shrimp (1/2) 	|	49.99 |
 |combo special 2	|King crab (1/2), shrimp (1/2), crawfish/mussels (1/2)	|	39.99 |
 
-* Each Combo also includes 1 corn, 1 potato, and 1 sausage.
-* The crawfish, mussels, and clams are interchangable 
+*Each Combo also includes 1 corn, 1 potato, and 1 sausage.
+*The crawfish, mussels, and clams are interchangable 
 
 ## "Build Your Own Bag" or Combos? 
 
