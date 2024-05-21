@@ -96,6 +96,7 @@ $D_i$: demand of seafood
 
 $A_{ij}$: the quantity of seafood $i$ in combo $j$.  
 
+Thus, our mission can be formulated as a cost-minimization problem as follows: 
 
 $$ min: \quad \sum_j P_j Y_j + \sum_i C_i X_i  $$
 
