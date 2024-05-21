@@ -44,6 +44,7 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 |combo special 2	|King crab (1/2), shrimp (1/2), crawfish/mussels (1/2)	|	39.99 |
 
 *Each Combo also includes 1 corn, 1 potato, and 1 sausage.
+
 *The crawfish, mussels, and clams are interchangable 
 
 ## "Build Your Own Bag" or Combos? 
@@ -71,7 +72,7 @@ With this big order in mind, I certainly can forego "Build Your Own Bag" option.
 So let us do some math to plan my order, so that I can make the most out of the money I'm about to spend. 
 
 ## The Math
-I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming) in a Python Jupyter notebook with [CVXPY](https://www.cvxpy.org/) as the solver. Adding the following routine is necessary. 
+I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming). Below is the mathematical model. 
 
 Indices
 $i$: seafood 
@@ -81,6 +82,8 @@ Decision Variables
 $X_i$
 
 ## The Code
+
+The above mathematical model is encoded in Python Jupyter notebook with [CVXPY](https://www.cvxpy.org/) as the solver. Adding the following routine is necessary. 
 
 ```javascript
 import numpy as np
