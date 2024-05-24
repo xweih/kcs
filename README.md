@@ -43,7 +43,7 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 |combo special 1	|snow crab (1/2), 1x lobster tail, shrimp (1/2) 	|	49.99 |
 |combo special 2	|King crab (1/2), shrimp (1/2), crawfish/mussels (1/2)	|	39.99 |
 
-*Each Combo also includes **1 corn, 1 potato, and 1 sausage.**
+*Each Combo also **includes 1 corn, 1 potato, and 1 sausage.**
 
 *The crawfish, mussels, and clams are interchangable 
 
@@ -89,7 +89,7 @@ $X_i \in$ {0,1}: selection of a seafood by the pound, taking the value 1, if sea
 $Y_j \in$ {0,1}: selection of a combo, taking the value of 1, if combo $j$ is selected, and 0, if not.  
 
 
-**Parameters: **
+**Parameters:**
 
 $C_i$: build-your-own-bag menu price of seafood $i$,  (per pound)
 
