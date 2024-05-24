@@ -43,7 +43,7 @@ Their menu can be found [here](https://thekingcrabshack27th.com/menu).
 |combo special 1	|snow crab (1/2), 1x lobster tail, shrimp (1/2) 	|	49.99 |
 |combo special 2	|King crab (1/2), shrimp (1/2), crawfish/mussels (1/2)	|	39.99 |
 
-*Each Combo also includes 1 corn, 1 potato, and 1 sausage.
+*Each Combo also includes **1 corn, 1 potato, and 1 sausage.**
 
 *The crawfish, mussels, and clams are interchangable 
 
@@ -75,21 +75,21 @@ So let us do some math to plan my order, so that I can make the most out of the 
 I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming). Below is the mathematical model. 
 
 
-Indices:
+**Indices:**
 
 $i \in$ {crawfish, mussels, shrimp, snow crab, ..., sausage}: seafood by the pound 
 
 $j \in$ {combo 1, combo 2, ... , combo special 2}: combo
 
 
-Decision Variables:
+**Decision Variables:**
 
 $X_i \in$ {0,1}: selection of a seafood by the pound, taking the value 1, if seafood $i$ is selected, and 0, if not.  
 
 $Y_j \in$ {0,1}: selection of a combo, taking the value of 1, if combo $j$ is selected, and 0, if not.  
 
 
-Parameters: 
+**Parameters: **
 
 $C_i$: build-your-own-bag menu price of seafood $i$,  (per pound)
 
