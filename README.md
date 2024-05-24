@@ -100,7 +100,7 @@ $D_i$: demand quantity (lb) of seafood $i$ as a customer order
 $A_{ij}$: the quantity (lb) of seafood $i$ in combo $j$, according to the menu.  
 
 
-Thus, our mission can be formulated as a cost-minimization problem as follows: 
+Thus, our mission can be formulated as a **cost-minimization problem** as follows: 
 
 $$ min: \quad \sum_j P_j Y_j + \sum_i C_i X_i  $$
 
