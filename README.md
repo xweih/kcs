@@ -74,17 +74,20 @@ So let us do some math to plan my order, so that I can make the most out of the 
 ## The Math
 I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming). Below is the mathematical model. 
 
+
 Indices:
 
 $i \in$ {crawfish, mussels, shrimp, snow crab, ..., sausage}: seafood by the pound 
 
 $j \in$ {combo 1, combo 2, ... , combo special 2}: combo
 
+
 Decision Variables:
 
 $X_i \in$ {0,1}: selection of a seafood by the pound, taking the value 1, if seafood $i$ is selected, and 0, if not.  
 
 $Y_j \in$ {0,1}: selection of a combo, taking the value of 1, if combo $j$ is selected, and 0, if not.  
+
 
 Parameters: 
 
@@ -95,6 +98,7 @@ $P_j$: menu price of combo $j$, (per each)
 $D_i$: demand quantity (lb) of seafood $i$ as a customer order
 
 $A_{ij}$: the quantity (lb) of seafood $i$ in combo $j$, according to the menu.  
+
 
 Thus, our mission can be formulated as a cost-minimization problem as follows: 
 
