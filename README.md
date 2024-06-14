@@ -1,4 +1,4 @@
-# The King Crab Hack 
+# The King Crab Hack (KCH)
 ## An Analytical Guide to Seafood-boil Orders Using Mixed Integer Optimization and CVXPY
 
 <img src="images/kcs.png" width="1000" >
