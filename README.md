@@ -2,7 +2,7 @@
 ## An Analytical Guide to Seafood-boil Orders Using Mixed Integer Optimization and CVXPY
 
 <img src="images/kcs.png" width="1000" >
- 
+
 ## Story
 As a foodie, I have a soft spot for seafood and Vietnamese food. My favorite restuarnt to get both in Milwaukee is this place called King Crab Shack. They serve not only authentic Vietnamese dishes, but also cajun style seafood boil with a twist of Vietnamese. 
 
