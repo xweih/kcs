@@ -105,6 +105,12 @@ $$ min: \quad \sum_j P_j Y_j + \sum_i C_i X_i  $$
 
 $$ st:  \quad \sum_j A_{ij} Y_j + X_i \geq D_i, \quad \forall i $$
 
+$$
+\begin{align}
+   \text{min:} & \sum_j P_j Y_j + \sum_i C_i X_i &\\
+   \text{st:}  & \sum_j A_{ij} Y_j + X_i \geq D_i, \quad \forall i \\
+\end{align}
+$$
 
 ## The Code
 
